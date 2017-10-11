@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MSIH</string>
+    <string name="facebook_application_id" translatable="false">1188533941241061</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="log_out">Log Out</string>
+    <string name="permission_denied">Permission Denied!</string>
+    <string name="no_location">Your Location Is Off</string>
+    <string name="permission">Must allow location permission for the application to run properly</string>
+    <string name="no_location_message">Must turn on location for the application to run properly</string>
+    <string name="search">Search</string>
+    <string name="change_price">Change Price</string>
+    <string name="add_item">Add Item</string>
+    <string name="price">Price</string>
+    <string name="item">Item</string>
+    <string name="location">Location</string>
+
+</resources>
